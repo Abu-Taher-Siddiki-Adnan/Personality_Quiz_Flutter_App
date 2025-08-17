@@ -32,7 +32,7 @@ A **Flutter-based Personality Quiz App** designed to provide users with fun, int
 
 You can download the **latest Android APK** of the Personality Quiz app here:  
 
-[Download Personality Quiz APK]([https://github.com/Abu-Taher-Siddiki-Adnan/Personality_Quiz_Flutter_App/releases/latest](https://github.com/Abu-Taher-Siddiki-Adnan/Personality_Quiz_Flutter_App/releases/download/v1.0.0/app-release.apk))  
+[Download Personality Quiz APK](https://github.com/Abu-Taher-Siddiki-Adnan/Personality_Quiz_Flutter_App/releases/download/v1.0.0/app-release.apk)  
 
 > ⚠️ Make sure to enable **“Install from Unknown Sources”** on your Android device before installing the APK.  
 
@@ -46,4 +46,5 @@ You can download the **latest Android APK** of the Personality Quiz app here:
 ---
 
 ### 🎯 Feel free to explore, test, and contribute! 🚀
+
 
